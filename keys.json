@@ -1,152 +1,52 @@
 [
-    {
-        "key": "luxecheats-day-9H7GDJ8D3W7OUQ48",
-        "status": 2,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-day-H7INRIIWZQ3MFMJV",
-        "status": 2,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-day-N0WGOEIP32PBXDAO",
-        "status": 2,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-BUTGPTFK8TF3U4NH",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-ZP694B2MUSBWDJC8",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-KRALKQ3KJRW4N2JD",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-8IUM93SA027O0VMR",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-BU7EZV4KFHYPJCI6",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-4I5AYZZDV5224ZS7",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-88LTLI79J47X0Z7V",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-TWMPRSM6OE2U5IRD",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-41AOM6UQ4VXJBE6I",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-LYS1N4PRIMIJMPRD",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-6LPCAECBY8PPM2CM",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-HHX8A4LRUJUNELZT",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-RM46XVR40J0B6IVZ",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-HYVCHY1FLP5N1VSC",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-VMRV01Q4H87NWY1Y",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-QNHAXTH2XHXWWUM8",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-NJGBMNEXDW2JJED4",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-AVX7KOLWVPF2T1WR",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-PDDN8LO3UK39F82P",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-9AJNDRH6D31QL7E2",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-3XIGFI5H7NXNGN58",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-EG1RY8XFL8PF3RAI",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-TWUT8USF7LFUS2Q4",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-3H7RX68JR96PDJBQ",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-VMN7A8N7P6QCGG85",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-V3A1NB8XO35NAS28",
-        "status": 1,
-        "validade": "2026-04-06"
-    },
-    {
-        "key": "luxecheats-meses-O4W8PK2YODXPRXR4",
-        "status": 1,
-        "validade": "2026-04-06"
-    }
+  {
+    "key": "luxecheats-day-9H7GDJ8D3W7OUQ48",
+    "status": 2,
+    "validade": "2025-04-07"
+  },
+  {
+    "key": "luxecheats-day-H7INRIIWZQ3MFMJV",
+    "status": 2,
+    "validade": "2025-04-07"
+  },
+  {
+    "key": "luxecheats-day-N0WGOEIP32PBXDAO",
+    "status": 2,
+    "validade": "2025-04-07"
+  },
+  {
+    "key": "luxecheats-months-BUTGPTFK8TF3U4NH",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-ZP694B2MUSBWDJC8",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-KRALKQ3KJRW4N2JD",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-8IUM93SA027O0VMR",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-BU7EZV4KFHYPJCI6",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-4I5AYZZDV5224ZS7",
+    "status": 2,
+    "validade": "2025-05-06"
+  },
+  {
+    "key": "luxecheats-months-88LTLI79J47X0Z7V",
+    "status": 2,
+    "validade": "2025-05-06"
+  }
 ]
